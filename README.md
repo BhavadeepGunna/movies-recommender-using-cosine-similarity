@@ -1,2 +1,2 @@
 # movies-recommender-using-cosine-similarity
-content based movie recommender 
+content based movie recommendation system
